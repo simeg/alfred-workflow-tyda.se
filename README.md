@@ -4,11 +4,11 @@ This workflow lets you search [Tyda.se](http://tyda.se/) with the query you inpu
 ![Alfred interface with light theme](include/search-example-light.png)
 ![Alfred interface with dark theme](include/search-example-dark.png)
 
-## Download and install
+## Download and Install
 Latest version: [v0.1.0](https://github.com/simeg/alfred-workflow-tyda.se/archive/master.zip)
 
-0. Download the repository
-0. Open `tyda_se.alfredworkflow` by double-clicking it or dragging it into Alfred
+1. Download the repository
+2. Open `tyda_se.alfredworkflow` by double-clicking it or dragging it into Alfred
 
 ## Usage
 ```
